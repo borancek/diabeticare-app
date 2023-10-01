@@ -5,8 +5,6 @@ Welcome to my undergraduate final year project repository. Within this repositor
 Please note that this project was conducted between September 2022 - April 2023.
 <br>
 <br>
-<br>
-
 -- How to execute Diabeticare -- 
 
 1) Begin by installing Node.js via its official website: https://nodejs.org/en.
@@ -21,4 +19,5 @@ Please note that this project was conducted between September 2022 - April 2023.
 The login details for the user is as follows:
 
 Email = thepatient@gmail.com
+<br>
 Password = mileend
