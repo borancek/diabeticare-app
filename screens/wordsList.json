@@ -1,0 +1,158 @@
+[
+    {
+        "id": "Acesulfame-k",
+        "title": "An artificial sweetener used in place of sugar; it contains no carbohydrates or sugar; therefore, it has no effect on blood sugar levels."
+    },
+
+    {
+        "id": "Acetone",
+        "title": "A chemical formed in the blood when the body breaks down fat instead of sugar for energy; if acetone forms, it usually means the cells are starved. Commonly, the body's production of acetone is known as ketosis. It occurs when there is an absolute or relative deficiency in insulin so sugars cannot get into cells for energy. "
+    },
+
+    {
+        "id": "Adrenal Glands",
+        "title": "Two endocrine glands that sit on top of the kidneys and make and release stress hormones, such as epinephrine (adrenaline), which stimulates carbohydrate metabolism; norepinephrine, which raises heart rate and blood pressure; and corticosteroid hormones, which control how the body utilizes fat, protein, carbohydrates, and minerals, and helps reduce inflammation."
+    },
+
+    {
+        "id": "Artificial Pancreas",
+        "title": "A glucose sensor attached to an insulin delivery device; both are connected together by what is known as a closed loop system. In other words, it is a system that not only can determine the body glucose level, but also takes that information and releases the appropriate amounts of insulin for the particular sugar it just measured."
+    },
+
+    {
+        "id": "Artificial Sweeteners",
+        "title": "Also called non-nutritive sweeteners, these include low-calorie or non-caloric sweeteners or sugar substitutes. They add a sweet flavor with fewer calories than table sugar, corn syrup, or fruit juice concentrates. Examples are aspartame (NutraSweet and Equal), sucralose (Splenda), acesulfame potassium, neotame, and saccharin (Sweet'N Low)."
+    },
+
+    {
+        "id": "Basal Rate",
+        "title": "The amount of insulin required to manage normal daily blood glucose fluctuations; most people constantly produce insulin to manage the glucose fluctuations that occur during the day. In a person with diabetes, giving a constant low level amount of insulin via insulin pump mimics this normal phenomenon."
+    },
+
+    {
+        "id": "Biosynthetic Insulin",
+        "title": "Genetically engineered human insulin; this insulin has a much lower risk of inducing an allergic reaction in people who use it, unlike cow (bovine) or pork (porcine) insulins. The manufacturers of synthetic insulin make it in a short-acting form, which works to cover mealtime increases in sugars"
+    },
+
+    {
+        "id": "Blood Pressure",
+        "title": "The measurement of the pressure or force of blood against the blood vessels (arteries); blood pressure is written as two numbers. The first number or top number is called the systolic pressure and is the measure of pressure in the arteries when the heart beats and pushes more blood into the arteries. The second number, called the diastolic pressure, is the pressure in the arteries when the heart rests between beats. The ideal blood pressure for non-pregnant people with diabetes is 130/80 or less."
+    },
+
+    {
+        "id": "Body Mass Index (BMI)",
+        "title": "A calculation based on your height and weight to categorize you as underweight, at a healthy weight, overweight, or obese. BMI gives an idea of what your risks of health problems are based on your weight."
+    },
+
+    {
+        "id": "Carbohydrate",
+        "title": "One of the three main classes of foods and a source of energy; carbohydrates are mainly sugars and starches that the body breaks down into glucose (a simple sugar that the body can use to feed its cells)."
+    },
+
+    {
+        "id": "Cholesterol",
+        "title": "A waxy, odorless substance made by the liver that is an essential part of cell walls and nerves; cholesterol plays an important role in body functions such as digestion and hormone production. In addition to being produced by the body, cholesterol comes from animal foods that we eat. Too much cholesterol in the blood causes an increase in particles called LDL (''bad'' cholesterol), which increases the buildup of plaque in the artery walls and leads to atherosclerosis"
+    },
+
+    {
+        "id": "Fasting Plasma Glucose Test ",
+        "title": "The preferred method of screening for diabetes; the FPG measures a person's blood sugar level after fasting or not eating anything for at least 8 hours. Normal fasting blood glucose is less than 100 milligrams per deciliter or mg/dL. A fasting plasma glucose greater than 100 mg/dL and less than126 mg/dL implies that the person has an impaired fasting glucose level but may not have diabetes. A diagnosis of diabetes is made when the fasting blood glucose is greater than 126 mg/dL and when blood tests confirm abnormal results. "
+    },
+
+    {
+        "id": "Fiber",
+        "title": "A type of carbohydrate that the body can’t digest. It can’t be broken down into sugar. You'll find it in fruits, vegetables, beans, whole grains, and nuts. High-fiber foods tend to be bulky and require extra chewing, so they may boost your weight loss efforts by helping you feel fuller for longer."
+    },
+
+    {
+        "id": "Fructose",
+        "title": "A type of sugar found in many fruits and vegetables and in honey; fructose is used to sweeten some diet foods, but this type of sweetener is typically not recommended for people with diabetes, because it could have a negative effect on blood sugar."
+    },
+
+    {
+        "id": "Gastroparesis",
+        "title": "A form of nerve damage that affects the stomach and intestines; with this condition, food is not digested properly and does not move through the stomach and intestinal tract normally. It can result in nausea and vomiting, because the transit time of food is slowed by nerve damage. "
+    },
+
+    {
+        "id": "Glaucoma",
+        "title": "An eye disease associated with increased pressure within the eye; glaucoma can damage the optic nerve and cause impaired vision and blindness."
+    },
+
+    {
+        "id": "Glucagon",
+        "title": "A hormone that raises the level of glucose in the blood by releasing stored glucose from the liver; glucagon is sometimes injected when a person has lost consciousness (passed out) from low blood sugar levels. "
+    },
+
+    {
+        "id": "Glucose",
+        "title": "A simple sugar found in the blood; it is the body's main source of energy; also known as dextrose."
+    },
+
+    {
+        "id": "Glucose tablets",
+        "title": "Chewable sugar that people with diabetes use to raise their blood sugar quickly when it drops dangerously low (hypoglycemia). These products come in a variety of flavors and forms such as gels, liquids, and powders."
+    },
+
+    {
+        "id": "Glycated Hemoglobin Test (HbA1c)",
+        "title": "This is an important blood test to determine how well you are managing your diabetes; hemoglobin is a substance in red blood cells that carries oxygen to tissues. It can also attach to sugar in the blood, forming a substance called glycated hemoglobin or a Hemoglobin A1C. The test provides an average blood sugar measurement over a 6- to 12-week period and is used in conjunction with home glucose monitoring to make treatment adjustments."
+    },
+
+    {
+        "id": "Hyperglycemia",
+        "title": "High blood sugar; this condition is fairly common in people with diabetes. Many things can cause hyperglycemia. It occurs when the body does not have enough insulin or cannot use the insulin it does have."
+    },
+
+    {
+        "id": "Hypoglycemia",
+        "title": "Most cases occur when there is too much insulin and not enough glucose in your body."
+    },
+
+    {
+        "id": "Insulin Pump",
+        "title": "A small, computerized device -- about the size of a small cell phone -- that is worn on a belt or put in a pocket; insulin pumps have a small flexible tube with a fine needle on the end. The needle is inserted under the skin of the abdomen and taped in place. A carefully measured, steady flow of insulin is released into the body."
+    },
+
+    {
+        "id": "Insulin Receptors",
+        "title": "Areas on the outer part of a cell that allow insulin in the blood to join or bind with the cell; when the cell and insulin bind together, the cell can take glucose from the blood and use it for energy."
+    },
+
+    {
+        "id": "Somogyi Effect",
+        "title": "Also called rebound effect, it occurs when there is an upward swing in blood sugar from an extremely low level of glucose in the blood to a very high level. It usually happens during the night and early morning hours. People who experience high levels of blood sugar in the morning may need to test their blood sugar levels in the middle of the night."
+    }, 
+
+    {
+        "id": "Sorbitol",
+        "title": "A sugar -- produced from fruits -- that the body uses slowly; it is a sweetener used in diet foods and is called a nutritive sweetener because it has four calories in every gram, just like table sugar and starch. These compounds are used in many foods labeled as ''sugar free'' and ''no sugar added'' and can raise your blood glucose. "
+    }, 
+
+    {
+        "id": "Sulfonylureas",
+        "title": "Pills or capsules that people take to lower the level of sugar in the blood; these oral diabetic medications work to lower your blood sugar by making your pancreas produce more insulin."
+    }, 
+
+    {
+        "id": "Triglyceride",
+        "title": "Fats carried in the blood from the food we eat; most of the fats we eat, including butter, margarines, and oils, are in triglyceride form. Excess triglycerides are stored in fat cells throughout the body. The body needs insulin to remove this type of fat from the blood."
+    }, 
+
+    {
+        "id": "Type 1 Diabetes",
+        "title": "A type of diabetes in which the insulin-producing cells (called beta cells) of the pancreas are damaged; people with type 1 diabetes produce little or no insulin, so glucose cannot get into the body's cells for use as energy. This causes blood sugar to rise. People with type 1 diabetes must use insulin injections to control their blood sugar."
+    }, 
+
+    {
+        "id": "Type 2 Diabetes",
+        "title": "A type of diabetes in which the insulin produced is either not enough or the person's body does not respond normally to the amount present; therefore, glucose in the blood cannot get into the body's cells for use as energy. This results in an increase in the level of glucose (sugar) in the blood."
+    }, 
+
+    {
+        "id": "Ultralente Insulin",
+        "title": "A type of insulin that is long-acting; usually, the action of this type of insulin works for 25-36 hours after injection. This type of insulin has an onset of action four to five hours after injecting and works most powerfully at eight to 14 hours after injection."
+    }
+
+
+]
