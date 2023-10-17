@@ -32,3 +32,8 @@ In this section, I will provide a visual representation of how the application a
 ![Screenshot 2023-10-17 at 16 33 00](https://github.com/borancek/diabeticare-app/assets/77752760/de0371a0-ac33-4ae6-9b6f-ff7b8624fe1b)
 <br>
 This screen is the initial point of contact for users upon launching the application, inviting them to input their email and password.
+<br>
+## Main Menu
+![Screenshot 2023-10-17 at 16 38 17](https://github.com/borancek/diabeticare-app/assets/77752760/a5d9f427-c35d-42ea-85fd-4a404b14fee7)
+<br>
+Users will arrive at this screen upon successful authorisation on the login page. It offers a personalised touch by displaying the user's own email. This screen features a dedicated news section, focusing on keeping users aware of the latest developments in the diabetes sector. Additionally, it incorporates a "Challenges of the Day" segment, adding a gamification aspect to the application, and encouraging users to embrace healthier lifestyle choices.
