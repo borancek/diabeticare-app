@@ -2,7 +2,7 @@
 Welcome to my undergraduate final year project repository. Within this repository, you will find the Diabeticare codebase and a final report that offers an overview of the project.
 <be>
 <br>
-Please note that this project was conducted between September 2022 - April 2023.
+Please note that this project report was conducted between September 2022 - April 2023. The implementation of the project was conducted between February 2023 - April 2023.
 <br>
 <br>
 -- How to execute Diabeticare -- 
