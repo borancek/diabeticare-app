@@ -24,3 +24,5 @@ The login details for the user is as follows:
 Email = thepatient@gmail.com
 <br>
 Password = mileend
+
+# Application Walkthrough
