@@ -26,3 +26,9 @@ Email = thepatient@gmail.com
 Password = mileend
 
 # Application Walkthrough
+In this section, I will provide a visual representation of how the application appears during its runtime.
+
+## Initial Launch Screen
+![Screenshot 2023-10-17 at 16 33 00](https://github.com/borancek/diabeticare-app/assets/77752760/de0371a0-ac33-4ae6-9b6f-ff7b8624fe1b)
+<br>
+This screen is the initial point of contact for users upon launching the application, inviting them to input their email and password.
