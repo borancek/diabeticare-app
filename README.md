@@ -55,3 +55,22 @@ This page allows users the capability to calculate their Body Mass Index (BMI), 
 ![Screenshot 2023-10-17 at 16 57 43](https://github.com/borancek/diabeticare-app/assets/77752760/2f84dc26-a34e-4f85-89e5-54eea14d83e0)
 <br>
 This page allows the user to download e-Prescriptions that they receive from their healthcare provider.
+<br>
+## Chat Page
+![Screenshot 2023-10-17 at 17 01 34](https://github.com/borancek/diabeticare-app/assets/77752760/5f516a70-0a37-4ca7-b4e8-e192d79386a9)
+<br>
+The chat feature enables patients to engage in direct, real-time conversations with their healthcare providers, ensuring fast responses to their enquiries. This functionality is designed to enhance patient convenience by significantly reducing waiting times, and eliminating the need to schedule appointments for quick questions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
