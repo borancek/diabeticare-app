@@ -42,6 +42,7 @@ Users will arrive at this screen upon successful authorisation on the login page
 ![Screenshot 2023-10-17 at 16 47 15](https://github.com/borancek/diabeticare-app/assets/77752760/2da3cb92-2dba-4c31-ba23-da91acb82b53)
 <br>
 Upon visiting the 'Dictionary page,' users will encounter a list of diabetes-related terms, allowing them to easily access and comprehend medical terminology. This feature addresses a common issue that I came across during the research phase of the project among diabetic patients. They had often struggled with understanding their healthcare providers' terminology. Users also have the convenience of using a search bar to find specific terms they may enter themselves.
+<br>
 ##BMI Calculator Page
 ![Screenshot 2023-10-17 at 16 53 23](https://github.com/borancek/diabeticare-app/assets/77752760/03a8e24b-e5a6-43a3-a5e4-7c00bf386a58)
 <br>
